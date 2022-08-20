@@ -1,4 +1,7 @@
-.layout
-.cbp
-.o
-.exe
+*.layout
+*.cbp
+*.o
+*.exe
+*.deppend
+*.depend
+
